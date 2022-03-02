@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David Martin @Marti746
-- 👀 I’m interested in App Development as well as Software Development
+- 👀 I’m interested in App Development, Software Development, as well as Cyber Security
 - 🌱 I’m currently learning Java, C++, Linux, SQL and ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email @ damartinco@gmail.com
