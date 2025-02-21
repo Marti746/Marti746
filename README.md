@@ -4,13 +4,16 @@ You can click the Preview link to take a look at your changes.
 --->
 Hi 👋 My name is David Martin
 =============================
-
+<!--<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+https://github.com/Test-MyDFIR/Test-MyDFIR/blob/main/README.md?plain=1
+Go to above github for more customized template
+--->
 SOC Analyst
 -----------
 
 I love all things Cyber Security. Self teaching myself Python (which has become my favorite language). I have knowledge and skills in many areas. On a pursuit for a full-time role within Cyber Security. Always looking for ways to grow my knowledge and skills. So thank you for visiting my GitHub.
 
-*   🌍  I'm based in Colorado
+*   🌍  I'm based in United States
 *   🧠  I'm learning CTFs and Kali Linux Tools
 *   🤝  I'm open to collaborating on Anything and Everything
 
